@@ -28,5 +28,5 @@ Data storytelling is about presenting data in a way that is engaging and easy to
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email:** jagwinder.singh.utsa@gmail.com
-- **LinkedIn:** [Jagwinder Singh]((http://www.linkedin.com/in/jagwinder-singh-76b4411a3))
+- **Email:** jagwinder.singh@example.com
+- **LinkedIn:** [Jagwinder Singh](http://www.linkedin.com/in/jagwinder-singh-76b4411a3)
